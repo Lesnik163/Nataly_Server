@@ -1,8 +1,4 @@
-# Ignore generated node_modules folder
-node_modules/
+node_modules
+dist
+backups
 
-# Ignore compiled JavaScript files
-dist/
-
-# Ignore database backups
-backups/
